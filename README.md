@@ -1,6 +1,6 @@
 #### Hi, I'm Àlámú 👋
 
-I'm a software engineer specializing in backend development and I can do frontend too.
+I'm a software developer specializing in backend development and I can do frontend too.
 I studied Information Technology and I'm good at information research.
 
 #### 🎵 Hobbies & Interests
