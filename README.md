@@ -13,6 +13,7 @@ I studied Information Technology and I'm good at information research.
 - 🌍 In my free time, I try to catch up with what's going on around the globe. I go out too 🙂.
 - 🕵️‍♂️ I support other collaborators on [Detective Z](https://github.com/aalamu/detective-z)
 - 🎬 I also love Western movies, they are my favorite!
+- 🎮 I play games little
 
 ## 🌱 Learning 
 - I do learn DevOps and Cyber Security
