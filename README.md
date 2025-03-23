@@ -5,7 +5,7 @@ I studied Information Technology and I'm good at information research.
 
 Projects:
 
-- [Localizer](localizer) - An Open Source (OS) library that allows you to localize your Java Application and APIs.
+- [Localizer](https://github.com/aalamu/localizer) - An Open Source (OS) library that allows you to localize your Java Application and APIs.
 
 #### 🎵 Hobbies & Interests
 
