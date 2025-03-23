@@ -3,7 +3,7 @@
 I'm a software developer specializing in backend development and I can do frontend too.
 I studied Information Technology and I'm good at information research.
 
-Projects:
+**Projects**
 
 - [Localizer](https://github.com/aalamu/localizer) - An Open Source (OS) library that allows you to localize your Java Application and APIs.
 
