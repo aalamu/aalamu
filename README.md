@@ -14,5 +14,5 @@ I studied Information Technology.
 - 🕵️‍♂️ I work with Angular and Spring in building the new era social network 
 - 🤖 I teach people the basics of AI, Internet usage, Microsoft Office, and web development.
 
-** 🌱 Learning** 
+**🌱 Learning** 
 - I do learn DevOps and Cyber Security
