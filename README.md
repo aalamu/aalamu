@@ -1,7 +1,6 @@
-#### Hi, I'm Àlámú 👋
+#### Hi,
 
 I'm a software developer specializing in backend development, I do Angular too.
-I studied Information Technology.
 
 **Projects**
 
