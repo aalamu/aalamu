@@ -12,10 +12,7 @@ I care about developer experience and internationalization, which led me to crea
 
 **Interests**
 
-- 🌍 In my free time, I try to catch up with what's going on around the globe.
+- 🌍 AI, new technologies
 - 🕵️‍♂️ I support other collaborators on [Detective Z](https://github.com/aalamu/detective-z)
-- 🕵️‍♂️ I work with Angular and Spring in building the new era social network 
-- 🤖 I teach people the basics of AI, Internet usage, Microsoft Office, and web development.
-
-**🌱 Learning** 
-- I do learn DevOps and Cyber Security
+- 🕵️‍♂️ Building a new generation social network. 
+- 🤖 Leadership and Mentorship.
